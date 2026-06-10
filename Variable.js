@@ -13,4 +13,4 @@ else {
 }
 
 let event = age >= 18 && hasticket || vipaccess ? "You can enter the event." : "You cannot enter the event.";
-console.log(event); // Output: "You can enter the event."git 
+console.log(event); // Output: "You can enter the event."git st
