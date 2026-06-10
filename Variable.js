@@ -11,6 +11,6 @@ if (age >= 18 && hasticket || vipaccess) {
 else {
     console.log("You cannot enter the event.");
 }
-
+//thia is chnage
 let event = age >= 18 && hasticket || vipaccess ? "You can enter the event." : "You cannot enter the event.";
 console.log(event); // Output: "You can enter the event."git st
