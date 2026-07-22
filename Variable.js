@@ -1,16 +1,20 @@
-let statuscode = 200;
-let result = statuscode === 200 ? "success" : "error";
-console.log("Results: " + result); // Output: "Results: success"
+var a=8;
+console.log(a);
+a= 120.33655555555555555
+console.log(a);
+console.log(typeof a);
+a= "Hello World";
+console.log(a);
+console.log(typeof a);
+var a = 8;
+console.log(a);
+var a = 8;
+console.log(a);
 
-let age = 17;
-let hasticket = true;
-let vipaccess = false;
-if (age >= 18 && hasticket || vipaccess) {
-    console.log("You can enter the event.");
-}
-else {
-    console.log("You cannot enter the event.");
-}
-//thia is chnage
-let event = age >= 18 && hasticket || vipaccess ? "You can enter the event." : "You cannot enter the event.";
-console.log(event); // Output: "You can enter the event."git st
+a = 120.33655555555555555;
+console.log(a);
+console.log(typeof a);
+
+a = "Hello World";
+console.log(a);
+console.log(typeof a);
